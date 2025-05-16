@@ -41,7 +41,7 @@ async def main() -> None:
     # await web_surfer_agent.close()
 
     team = MagenticOneGroupChat([wa_agent], model_client=model_client)
-    await Console(team.run_stream(task="Go to ibc and list down the numbers and details of all people of the group."))
+    await Console(team.run_stream(task="Go to AI SUS group, list down atleast 5 people and their details, who are looking for people to share the stay."))
 
 
 

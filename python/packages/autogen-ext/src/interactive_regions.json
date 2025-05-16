@@ -1,0 +1,1280 @@
+{
+    "46": {
+        "tag_name": "header",
+        "role": "",
+        "aria-name": "142",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 0,
+                "y": 0,
+                "width": 64,
+                "height": 900,
+                "top": 0,
+                "right": 64,
+                "bottom": 900,
+                "left": 0
+            }
+        ]
+    },
+    "47": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Chats",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 12,
+                "width": 40,
+                "height": 40,
+                "top": 12,
+                "right": 52,
+                "bottom": 52,
+                "left": 12
+            }
+        ]
+    },
+    "48": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Status",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 56,
+                "width": 40,
+                "height": 40,
+                "top": 56,
+                "right": 52,
+                "bottom": 96,
+                "left": 12
+            }
+        ]
+    },
+    "49": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Channels",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 100,
+                "width": 40,
+                "height": 40,
+                "top": 100,
+                "right": 52,
+                "bottom": 140,
+                "left": 12
+            }
+        ]
+    },
+    "50": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Communities",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 144,
+                "width": 40,
+                "height": 40,
+                "top": 144,
+                "right": 52,
+                "bottom": 184,
+                "left": 12
+            }
+        ]
+    },
+    "51": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Meta AI",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 206,
+                "width": 40,
+                "height": 40,
+                "top": 206,
+                "right": 52,
+                "bottom": 246,
+                "left": 12
+            }
+        ]
+    },
+    "52": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Settings",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 804,
+                "width": 40,
+                "height": 40,
+                "top": 804,
+                "right": 52,
+                "bottom": 844,
+                "left": 12
+            }
+        ]
+    },
+    "53": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Profile",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 12,
+                "y": 848,
+                "width": 40,
+                "height": 40,
+                "top": 848,
+                "right": 52,
+                "bottom": 888,
+                "left": 12
+            }
+        ]
+    },
+    "54": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "New chat",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 386,
+                "y": 12,
+                "width": 40,
+                "height": 40,
+                "top": 12,
+                "right": 426,
+                "bottom": 52,
+                "left": 386
+            }
+        ]
+    },
+    "55": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Menu",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 436,
+                "y": 12,
+                "width": 40,
+                "height": 40,
+                "top": 12,
+                "right": 476,
+                "bottom": 52,
+                "left": 436
+            }
+        ]
+    },
+    "56": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "",
+        "v-scrollable": true,
+        "rects": [
+            {
+                "x": 99,
+                "y": 74,
+                "width": 0,
+                "height": 0,
+                "top": 74,
+                "right": 99,
+                "bottom": 74,
+                "left": 99
+            }
+        ]
+    },
+    "57": {
+        "tag_name": "div",
+        "role": "textbox",
+        "aria-name": "Search input textbox",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 131,
+                "y": 72.9765625,
+                "width": 345,
+                "height": 22.046875,
+                "top": 72.9765625,
+                "right": 476,
+                "bottom": 95.0234375,
+                "left": 131
+            }
+        ]
+    },
+    "58": {
+        "tag_name": "button",
+        "role": "tab",
+        "aria-name": "All",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 85,
+                "y": 115,
+                "width": 40.9921875,
+                "height": 31.9921875,
+                "top": 115,
+                "right": 125.9921875,
+                "bottom": 146.9921875,
+                "left": 85
+            }
+        ]
+    },
+    "59": {
+        "tag_name": "button",
+        "role": "tab",
+        "aria-name": "Unread",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 133.9921875,
+                "y": 115,
+                "width": 73.9609375,
+                "height": 31.9921875,
+                "top": 115,
+                "right": 207.953125,
+                "bottom": 146.9921875,
+                "left": 133.9921875
+            }
+        ]
+    },
+    "60": {
+        "tag_name": "button",
+        "role": "tab",
+        "aria-name": "Favourites",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 215.953125,
+                "y": 115,
+                "width": 94.34375,
+                "height": 31.9921875,
+                "top": 115,
+                "right": 310.296875,
+                "bottom": 146.9921875,
+                "left": 215.953125
+            }
+        ]
+    },
+    "61": {
+        "tag_name": "button",
+        "role": "tab",
+        "aria-name": "Groups",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 318.296875,
+                "y": 115,
+                "width": 73.9140625,
+                "height": 31.9921875,
+                "top": 115,
+                "right": 392.2109375,
+                "bottom": 146.9921875,
+                "left": 318.296875
+            }
+        ]
+    },
+    "62": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Archived ",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 69,
+                "y": 157.9921875,
+                "width": 423,
+                "height": 49,
+                "top": 157.9921875,
+                "right": 492,
+                "bottom": 206.9921875,
+                "left": 69
+            }
+        ]
+    },
+    "63": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "AI SUS Lodging Search\nYesterday\n~\u202fWhatsApp\n added \n+1 (720) 532-5957\nMohit Chapparwal\nYesterday\nYou reacted  to:\n\u00a0\n\"\nWaha pahunch jaunga\"\nChef Meet\nYesterday\nReacted  to:\n\u00a0\n\"\nI wont forgive u\"\nPrithvi Raju Tankala\nYesterday\nPrithvi Raju Tankala.pdf \u2022 2 pages\nNirmit Arora\nYesterday\nYou reacted  to:\n\u00a0\n\"\nBaap re \"\nGunin Gupta\nYesterday\nOhh lol \nYC AI startup school travel India\nYesterday\n+91 84311 11496\n joined via an invite link\nTulasi Mam\nYesterday\nYou reacted  to:\n\u00a0\n\"\nWith immense joy and pride, I\u2019m thrilled to share that my granddaughter Janvika\u2019s book is live on Amazon.  Please shower her with your blessings and encourage her. Here is the link : https://www.amazon.in/My-Tiny-Tale-Tunes-6-year-olds/dp/9369548165/ref=sr\"\nThe Ecosystem Community - 1\nYesterday\nThe Events Group - 3 \n23\n~\u202fRishav Agarwal\n:\u00a0\nHosting a meetup for the core backbone of the organisation. If you are a CMO, CFO, CTO, COO, CHRO and CRO working in Startups or Corporates this is for you! 23rd May, 6-9 PM in Bengaluru Register Here: https://lu.ma/ei4m1dj9\nThe Ecosystem Community - 1\nYesterday\n~\u202fRishav Agarwal\n:\u00a0\nHosting a meetup for the core backbone of the organisation. If you are a CMO, CFO, CTO, COO, CHRO and CRO working in Startups or Corporates this is for you! 23rd May, 6-9 PM in Bengaluru Register Here: https://lu.ma/ei4m1dj9\n18\nDGX4 users\nYesterday\nBarah\n:\u00a0\nIt's back up.\n5\nFam\nYesterday\nMummy\n:\u00a0\nhttps://youtube.com/shorts/NnEegPiU90c?si=YmHRNNLT2xb0o-8m\nKrishna Srinivasan\nYesterday\nYou reacted  to:\n\u00a0\n\"\nAlso thanks to you - i logged into manus again - and now I see the 1000 one-time + 300 daily credits being applied. Will give it a try.\"\nSoumya\nYesterday\nYou reacted  to:\n\u00a0\n\"\nHaan mostly if the court has good ratings it'll be nice only And details about shows rackets etc will be there\"\nHimmat Subbu Building\nYesterday\nMissed voice call\n1\nJunior Folk\nYesterday\nHi, I wanted to talk to Vaishnavi. I am Pavan from Microsoft Research. I attended here recent panel discussion. Here is something i built very quickly based on your comments. We can chat more about it if you interested to give feeedback. Thanks.\nEF Selection Hackathon - 7th Mar 2025\nWednesday\n~\u202fPranjal Animesh\n:\u00a0\nHey Hackers, One of our alums has recently launched their own venture and is already making waves! They\u2019re celebrating a major milestone \u2014 100,000 members in their subreddit: r/AI_Agents.  To mark the occasion, they\u2019re hosting the biggest AI Agent Hackathon yet: - 500+ registered participants - Mentors from Nvidia, Databricks, AWS, Lyft, and Snowflake - A chance to build something truly impactful in the AI space Here\u2019s the link: https://hackathon.agentr.dev  Bonus: The most upvoted project wins a direct meeting with Sam Awrabi, General Partner at Banyan Ventures (NYC-based VC). I highly encourage you all to jump in \u2014 this is a golden chance to learn, build, and get noticed. Let\u2019s build the future. Cheers\nKaran\nWednesday\nReacted  to:\n\u00a0\n\"\nHaa, kal main bhi nahi spya tha :(\"\n WTF Insiders - Bangalore Edition\nWednesday\n~\u202fWTF Insiders\n:\u00a0\nBook your slot: https://urbanaut.app/spot/afterhours-with-vijaya-aswani-spreefirit",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 65,
+                "y": 210.9921875,
+                "width": 431,
+                "height": 38250,
+                "top": 210.9921875,
+                "right": 496,
+                "bottom": 38460.9921875,
+                "left": 65
+            }
+        ]
+    },
+    "64": {
+        "tag_name": "a",
+        "role": "button",
+        "aria-name": "end-to-end encrypted",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 302.65625,
+                "y": 38488.4921875,
+                "width": 134.0625,
+                "height": 14,
+                "top": 38488.4921875,
+                "right": 436.71875,
+                "bottom": 38502.4921875,
+                "left": 302.65625
+            }
+        ]
+    },
+    "65": {
+        "tag_name": "div",
+        "role": "button",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 65,
+                "y": 900,
+                "width": 431,
+                "height": 0,
+                "top": 900,
+                "right": 496,
+                "bottom": 900,
+                "left": 65
+            }
+        ]
+    },
+    "66": {
+        "tag_name": "button",
+        "role": "button",
+        "aria-name": "Get from App Store",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 879.1484375,
+                "y": 603.3125,
+                "width": 177.703125,
+                "height": 38,
+                "top": 603.3125,
+                "right": 1056.8515625,
+                "bottom": 641.3125,
+                "left": 879.1484375
+            }
+        ]
+    },
+    "67": {
+        "tag_name": "div",
+        "role": "grid",
+        "aria-name": "Chat list",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 65,
+                "y": 209.9921875,
+                "width": 431,
+                "height": 38251,
+                "top": 209.9921875,
+                "right": 496,
+                "bottom": 38460.9921875,
+                "left": 65
+            }
+        ]
+    },
+    "68": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "AI SUS Lodging Search\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 228.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 228.4921875,
+                "right": 471,
+                "bottom": 249.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "70": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Mohit Chapparwal\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 304.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 304.4921875,
+                "right": 471,
+                "bottom": 325.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "72": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Chef Meet\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 380.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 380.4921875,
+                "right": 471,
+                "bottom": 401.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "74": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Prithvi Raju Tankala\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 456.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 456.4921875,
+                "right": 471,
+                "bottom": 477.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "76": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Nirmit Arora\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 532.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 532.4921875,
+                "right": 471,
+                "bottom": 553.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "78": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Gunin Gupta\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 608.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 608.4921875,
+                "right": 471,
+                "bottom": 629.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "80": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "YC AI startup school travel India\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 684.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 684.4921875,
+                "right": 471,
+                "bottom": 705.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "82": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Tulasi Mam\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 760.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 760.4921875,
+                "right": 471,
+                "bottom": 781.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "84": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "The Events Group - 3 \n23",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 853.9921875,
+                "width": 319,
+                "height": 27,
+                "top": 853.9921875,
+                "right": 471,
+                "bottom": 880.9921875,
+                "left": 152
+            }
+        ]
+    },
+    "85": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "23",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 446.3125,
+                "y": 860.9921875,
+                "width": 24.6875,
+                "height": 20,
+                "top": 860.9921875,
+                "right": 471,
+                "bottom": 880.9921875,
+                "left": 446.3125
+            }
+        ]
+    },
+    "86": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "The Ecosystem Community - 1\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 931.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 931.4921875,
+                "right": 471,
+                "bottom": 952.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "87": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "18",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 447.7578125,
+                "y": 954.4921875,
+                "width": 23.2421875,
+                "height": 20,
+                "top": 954.4921875,
+                "right": 471,
+                "bottom": 974.4921875,
+                "left": 447.7578125
+            }
+        ]
+    },
+    "88": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "DGX4 users\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1007.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1007.4921875,
+                "right": 471,
+                "bottom": 1028.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "89": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "5",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 451.8125,
+                "y": 1030.4921875,
+                "width": 19.1875,
+                "height": 20,
+                "top": 1030.4921875,
+                "right": 471,
+                "bottom": 1050.4921875,
+                "left": 451.8125
+            }
+        ]
+    },
+    "90": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Fam\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1083.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1083.4921875,
+                "right": 471,
+                "bottom": 1104.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "91": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1116.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1116.4921875,
+                "right": 471,
+                "bottom": 1116.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "92": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Krishna Srinivasan\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1159.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1159.4921875,
+                "right": 471,
+                "bottom": 1180.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "93": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1192.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1192.4921875,
+                "right": 471,
+                "bottom": 1192.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "94": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Soumya\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1235.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1235.4921875,
+                "right": 471,
+                "bottom": 1256.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "95": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1268.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1268.4921875,
+                "right": 471,
+                "bottom": 1268.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "96": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Himmat Subbu Building\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1311.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1311.4921875,
+                "right": 471,
+                "bottom": 1332.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "97": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "1",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 451.8125,
+                "y": 1334.4921875,
+                "width": 19.1875,
+                "height": 20,
+                "top": 1334.4921875,
+                "right": 471,
+                "bottom": 1354.4921875,
+                "left": 451.8125
+            }
+        ]
+    },
+    "98": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Junior Folk\nYesterday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1387.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1387.4921875,
+                "right": 471,
+                "bottom": 1408.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "99": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1420.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1420.4921875,
+                "right": 471,
+                "bottom": 1420.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "100": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "EF Selection Hackathon - 7th Mar 2025\nWednesday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1463.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1463.4921875,
+                "right": 471,
+                "bottom": 1484.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "101": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1496.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1496.4921875,
+                "right": 471,
+                "bottom": 1496.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "102": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "Karan\nWednesday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1539.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1539.4921875,
+                "right": 471,
+                "bottom": 1560.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "103": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1572.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1572.4921875,
+                "right": 471,
+                "bottom": 1572.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "104": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "WTF Insiders - Bangalore Edition\nWednesday",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 152,
+                "y": 1615.4921875,
+                "width": 319,
+                "height": 21,
+                "top": 1615.4921875,
+                "right": 471,
+                "bottom": 1636.4921875,
+                "left": 152
+            }
+        ]
+    },
+    "105": {
+        "tag_name": "div",
+        "role": "gridcell",
+        "aria-name": "",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 471,
+                "y": 1648.4921875,
+                "width": 0,
+                "height": 0,
+                "top": 1648.4921875,
+                "right": 471,
+                "bottom": 1648.4921875,
+                "left": 471
+            }
+        ]
+    },
+    "106": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "AI SUS Lodging Search\nYesterday\n~\u202fWhatsApp\n added \n+1 (720) 532-5957",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 213.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 213.9921875,
+                "right": 486,
+                "bottom": 285.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "107": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Mohit Chapparwal\nYesterday\nYou reacted  to:\n\u00a0\n\"\nWaha pahunch jaunga\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 289.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 289.9921875,
+                "right": 486,
+                "bottom": 361.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "108": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Chef Meet\nYesterday\nReacted  to:\n\u00a0\n\"\nI wont forgive u\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 365.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 365.9921875,
+                "right": 486,
+                "bottom": 437.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "109": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Prithvi Raju Tankala\nYesterday\nPrithvi Raju Tankala.pdf \u2022 2 pages",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 441.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 441.9921875,
+                "right": 486,
+                "bottom": 513.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "110": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Nirmit Arora\nYesterday\nYou reacted  to:\n\u00a0\n\"\nBaap re \"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 517.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 517.9921875,
+                "right": 486,
+                "bottom": 589.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "111": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Gunin Gupta\nYesterday\nOhh lol",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 593.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 593.9921875,
+                "right": 486,
+                "bottom": 665.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "112": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "YC AI startup school travel India\nYesterday\n+91 84311 11496\n joined via an invite link",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 669.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 669.9921875,
+                "right": 486,
+                "bottom": 741.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "113": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Tulasi Mam\nYesterday\nYou reacted  to:\n\u00a0\n\"\nWith immense joy and pride, I\u2019m thrilled to share that my granddaughter Janvika\u2019s book is live on Amazon.  Please shower her with your blessings and encourage her. Here is the link : https://www.amazon.in/My-Tiny-Tale-Tunes-6-year-olds/dp/9369548165/ref=sr\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 745.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 745.9921875,
+                "right": 486,
+                "bottom": 817.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "114": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "The Ecosystem Community - 1\nYesterday\nThe Events Group - 3 \n23\n~\u202fRishav Agarwal\n:\u00a0\nHosting a meetup for the core backbone of the organisation. If you are a CMO, CFO, CTO, COO, CHRO and CRO working in Startups or Corporates this is for you! 23rd May, 6-9 PM in Bengaluru Register Here: https://lu.ma/ei4m1dj9",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 821.9921875,
+                "width": 411,
+                "height": 91,
+                "top": 821.9921875,
+                "right": 486,
+                "bottom": 912.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "115": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "The Ecosystem Community - 1\nYesterday\n~\u202fRishav Agarwal\n:\u00a0\nHosting a meetup for the core backbone of the organisation. If you are a CMO, CFO, CTO, COO, CHRO and CRO working in Startups or Corporates this is for you! 23rd May, 6-9 PM in Bengaluru Register Here: https://lu.ma/ei4m1dj9\n18",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 916.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 916.9921875,
+                "right": 486,
+                "bottom": 988.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "116": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "DGX4 users\nYesterday\nBarah\n:\u00a0\nIt's back up.\n5",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 992.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 992.9921875,
+                "right": 486,
+                "bottom": 1064.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "117": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Fam\nYesterday\nMummy\n:\u00a0\nhttps://youtube.com/shorts/NnEegPiU90c?si=YmHRNNLT2xb0o-8m",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1068.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1068.9921875,
+                "right": 486,
+                "bottom": 1140.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "118": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Krishna Srinivasan\nYesterday\nYou reacted  to:\n\u00a0\n\"\nAlso thanks to you - i logged into manus again - and now I see the 1000 one-time + 300 daily credits being applied. Will give it a try.\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1144.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1144.9921875,
+                "right": 486,
+                "bottom": 1216.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "119": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Soumya\nYesterday\nYou reacted  to:\n\u00a0\n\"\nHaan mostly if the court has good ratings it'll be nice only And details about shows rackets etc will be there\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1220.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1220.9921875,
+                "right": 486,
+                "bottom": 1292.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "120": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Himmat Subbu Building\nYesterday\nMissed voice call\n1",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1296.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1296.9921875,
+                "right": 486,
+                "bottom": 1368.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "121": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Junior Folk\nYesterday\nHi, I wanted to talk to Vaishnavi. I am Pavan from Microsoft Research. I attended here recent panel discussion. Here is something i built very quickly based on your comments. We can chat more about it if you interested to give feeedback. Thanks.",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1372.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1372.9921875,
+                "right": 486,
+                "bottom": 1444.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "122": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "EF Selection Hackathon - 7th Mar 2025\nWednesday\n~\u202fPranjal Animesh\n:\u00a0\nHey Hackers, One of our alums has recently launched their own venture and is already making waves! They\u2019re celebrating a major milestone \u2014 100,000 members in their subreddit: r/AI_Agents.  To mark the occasion, they\u2019re hosting the biggest AI Agent Hackathon yet: - 500+ registered participants - Mentors from Nvidia, Databricks, AWS, Lyft, and Snowflake - A chance to build something truly impactful in the AI space Here\u2019s the link: https://hackathon.agentr.dev  Bonus: The most upvoted project wins a direct meeting with Sam Awrabi, General Partner at Banyan Ventures (NYC-based VC). I highly encourage you all to jump in \u2014 this is a golden chance to learn, build, and get noticed. Let\u2019s build the future. Cheers",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1448.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1448.9921875,
+                "right": 486,
+                "bottom": 1520.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "123": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "Karan\nWednesday\nReacted  to:\n\u00a0\n\"\nHaa, kal main bhi nahi spya tha :(\"",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1524.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1524.9921875,
+                "right": 486,
+                "bottom": 1596.9921875,
+                "left": 75
+            }
+        ]
+    },
+    "124": {
+        "tag_name": "div",
+        "role": "",
+        "aria-name": "WTF Insiders - Bangalore Edition\nWednesday\n~\u202fWTF Insiders\n:\u00a0\nBook your slot: https://urbanaut.app/spot/afterhours-with-vijaya-aswani-spreefirit",
+        "v-scrollable": false,
+        "rects": [
+            {
+                "x": 75,
+                "y": 1600.9921875,
+                "width": 411,
+                "height": 72,
+                "top": 1600.9921875,
+                "right": 486,
+                "bottom": 1672.9921875,
+                "left": 75
+            }
+        ]
+    }
+}

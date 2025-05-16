@@ -85,7 +85,7 @@ class PlaywrightController:
         assert page is not None
         await page.wait_for_timeout(duration * 1000)
 
-    async def get_interactive_rects(self, page: Page) -> Dict[str, InteractiveRegion]:
+    async def get_interactive_rects(self, page: Page, concentrate="right") -> Dict[str, InteractiveRegion]:
         """
         Retrieve interactive regions from the web page.
 
@@ -103,13 +103,34 @@ class PlaywrightController:
             pass
         result = cast(Dict[str, Dict[str, Any]], await page.evaluate("WhatsappOperator.getInteractiveRects();"))
 
+        
+        # save to json
+        import json
+        with open("interactive_regions.json", "w") as f:
+            json.dump(result, f, indent=4)
+
         # Convert the results into appropriate types
         assert isinstance(result, dict)
         typed_results: Dict[str, InteractiveRegion] = {}
+
         for k in result:
             assert isinstance(k, str)
             typed_results[k] = interactiveregion_from_dict(result[k])
 
+        # Filter the results based on the concentrate parameter
+        if concentrate == "right":
+            boundary_element = [typed_results[d]["rects"][0] for d in typed_results if typed_results[d]['aria_name'] == "Search input textbox"]
+            if boundary_element:
+                boundary_element = boundary_element[0]["right"]
+                print(f"Boundary element: {boundary_element}")
+
+            typed_results = {
+                k: v
+                for k, v in typed_results.items()
+                if v["rects"][0]["left"] < boundary_element
+            }
+            print(f"Filtered interactive regions: {typed_results}")
+            
         return typed_results
 
     async def get_visual_viewport(self, page: Page) -> VisualViewport:

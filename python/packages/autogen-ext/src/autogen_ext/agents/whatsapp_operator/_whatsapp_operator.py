@@ -494,6 +494,7 @@ class WhatsappOperator(BaseChatAgent, Component[WhatsappOperatorConfig]):
         viewport = await self._playwright_controller.get_visual_viewport(self._page)
         screenshot = await self._page.screenshot()
         som_screenshot, visible_rects, rects_above, rects_below = add_set_of_mark(screenshot, rects)
+        som_screenshot.save("screenshot.png")  # type: ignore
 
         if self.to_save_screenshots:
             current_timestamp = "_" + int(time.time()).__str__()
