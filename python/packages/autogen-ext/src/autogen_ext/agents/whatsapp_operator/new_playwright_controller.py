@@ -116,6 +116,20 @@ class PlaywrightController:
         for k in result:
             assert isinstance(k, str)
             typed_results[k] = interactiveregion_from_dict(result[k])
+
+        # Filter the results based on the concentrate parameter
+        if concentrate == "right":
+            boundary_element = [typed_results[d]["rects"][0] for d in typed_results if typed_results[d]['aria_name'] == "Search input textbox"]
+            if boundary_element:
+                boundary_element = boundary_element[0]["right"]
+                print(f"Boundary element: {boundary_element}")
+
+            typed_results = {
+                k: v
+                for k, v in typed_results.items()
+                if v["rects"][0]["left"] < boundary_element
+            }
+            print(f"Filtered interactive regions: {typed_results}")
             
         return typed_results
 
